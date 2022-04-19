@@ -1,0 +1,1 @@
+SQL -> ETL ->LINUX -> PLSQL -> BIG DATA -> TABLUE -> GIT -> PYTHON -> BA
